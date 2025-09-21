@@ -81,6 +81,10 @@ Hospitality providers whose reputation and economic success depend on accurate c
 
 ## 🤖 AI-Powered Analysis
 - Run the Gemini API integration cell to analyze and assign aspect-based sentiment.
+## Video Demo
+[ Demo ]
+
+[Demo]:https://www.youtube.com/watch?v=Df2sAGX3w5U
 
 # Folder Organization 
 ---
